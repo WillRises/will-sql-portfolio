@@ -1,0 +1,6 @@
+sql-- Use public gaming dataset or create synthetic data
+-- Show:
+-- 1. Window functions to detect impossible action sequences
+-- 2. Statistical outlier detection
+-- 3. Time-series pattern analysis
+-- 4. Multi-table joins across player, sessions, actions
